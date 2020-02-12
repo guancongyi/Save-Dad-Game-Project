@@ -1,3 +1,4 @@
-# savedad
+Video Game Design Project - Save Dad
 
-Video game final project
+Used javaScript and processing.js to create a game, for more info:
+http://guancongyi.com/savedad-master/saveDad.html
